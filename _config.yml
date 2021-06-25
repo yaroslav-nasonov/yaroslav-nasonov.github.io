@@ -1,0 +1,29 @@
+title:              Yaroslav Nasonov
+email:              yaroslav.nasonov@gmail.com
+description:        25 yo PO from Moscow
+author:             Yaroslav Nasonov
+baseurl:            "/"
+url:                "https://yarikinez.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    yarikinez
+facebook_username:  yarikinez
+instagram_username: yarikinez
+linkedin_username:  yaroslav-nasonov-9591a1189
+vk_username:  nasonov_yaroslav
+telegram_username:  yaroslav_nasonov
+contact:  /download/YaroslavNasonov_vCard.vcf
+
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   G-3FYQ7GRVSJ # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
