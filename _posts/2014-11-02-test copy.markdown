@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Bulat Nureev"
+date:   2014-11-01 20:07:22
+categories: jekyll update
+vk_username: yaroslav_nasonov
+---
+
+Тут можно что-то написать
+
+
+
+<!-- Put this script tag to the place, where the Share button will be -->
+<script type="text/javascript"><!--
+document.write(VK.Share.button({url: "{{post.url}}"},{type: "custom", text: "<img src=\"https://vk.com/images/share_32.png\" width=\"32\" height=\"32\" />"}));
+--></script>
+
+
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          <li class="list-inline-item">
+            <a href="https://vk.com/{{ post.vk_username }}">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-vk fa-stack-1x fa-inverse" aria-hidden="true"></i>
+              </span>
+            </a>
+          </li>
+        </ul>
+        <p class="copyright text-muted">Copyright XEXEXEE &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
+      </div>
+    </div>
+  </div>
+</footer>
