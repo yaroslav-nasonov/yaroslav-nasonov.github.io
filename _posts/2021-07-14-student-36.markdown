@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Швецова Валерия"
+categories: jekyll update
+---
