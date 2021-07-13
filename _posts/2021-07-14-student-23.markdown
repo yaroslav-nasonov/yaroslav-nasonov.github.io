@@ -1,3 +1,4 @@
+---
 layout: student_page
 title:  "Памухин Петр"
 categories: jekyll update
