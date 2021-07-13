@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Скринник Михаил"
+categories: jekyll update
+---
