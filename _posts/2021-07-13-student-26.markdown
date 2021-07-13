@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Виктор Иванов"
+categories: jekyll update
+---
