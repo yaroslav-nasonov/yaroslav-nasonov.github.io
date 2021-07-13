@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Ирина Чувашева"
+categories: jekyll update
+---
