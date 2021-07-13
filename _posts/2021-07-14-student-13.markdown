@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Журавлева Анастасия"
+categories: jekyll update
+---
