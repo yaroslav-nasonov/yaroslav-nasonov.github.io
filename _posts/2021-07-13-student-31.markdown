@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Артем Зуев"
+categories: jekyll update
+---
