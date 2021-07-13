@@ -12,3 +12,5 @@ categories: jekyll update
 
 <img class="img-fluid" src="/img/posts/cat.jpg" alt="cat">
 <span class="caption text-muted">"Описание картинки, если надо".</span>
+
+<img class="img-fluid" src="/img/posts/322868_1100-800x825.jpg" alt="dog">
