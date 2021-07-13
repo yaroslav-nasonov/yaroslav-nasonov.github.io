@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Антон Горький"
+categories: jekyll update
+---
