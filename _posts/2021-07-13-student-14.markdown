@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Вероника Ожогина"
+categories: jekyll update
+---
