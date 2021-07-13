@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Азалия Валиева"
+categories: jekyll update
+---
