@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Тришин Никита"
+categories: jekyll update
+---
