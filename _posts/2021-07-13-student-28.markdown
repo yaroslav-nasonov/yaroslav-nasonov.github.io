@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Михаил Ларькин"
+categories: jekyll update
+---
