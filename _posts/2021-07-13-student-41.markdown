@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Полина Малютина"
+categories: jekyll update
+---
