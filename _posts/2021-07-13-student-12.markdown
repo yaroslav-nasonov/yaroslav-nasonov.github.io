@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Руслан Канзепаров"
+categories: jekyll update
+---
