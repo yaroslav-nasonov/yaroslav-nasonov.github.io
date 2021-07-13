@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Сидоров Илья"
+categories: jekyll update
+---
