@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Белоусько Максим"
+categories: jekyll update
+---
