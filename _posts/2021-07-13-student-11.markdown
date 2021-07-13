@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Мария Богдашевская"
+categories: jekyll update
+---
