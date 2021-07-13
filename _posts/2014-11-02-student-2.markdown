@@ -1,0 +1,15 @@
+---
+layout: student_page
+title:  "Student Studentovich"
+categories: jekyll update
+---
+
+Тут можно что-то написать
+
+И картинку вставить
+
+
+
+
+
+

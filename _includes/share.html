@@ -1,28 +1,76 @@
-﻿<footer class="site-footer">
-    <div class="page-content">
-        <div class="wrapper">
+﻿  <!-- VK -->
+  <script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
 
-            <h1 class="footer-heading">Делитесь в социальных сетях</h1>
+  <!-- FB -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v11.0"
+      nonce="jkbIvkbc"></script>
+
+  <!-- Twitter -->
+  <script>
+      window.twttr = (function (d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0],
+              t = window.twttr || {};
+          if (d.getElementById(id)) return t;
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "https://platform.twitter.com/widgets.js";
+          fjs.parentNode.insertBefore(js, fjs);
+
+          t._e = [];
+          t.ready = function (f) {
+              t._e.push(f);
+          };
+
+          return t;
+      }(document, "script", "twitter-wjs"));
+  </script>
+
+
+  <footer class="site-footer">
+      <div class="page-content">
+          <div class="wrapper">
+              <div class="row">
+
+                  <h1 class="footer-heading">Делитесь в социальных сетях</h1>
 
 
 
-            <!-- TODO beautify pictures -->
-            <script type="text/javascript">
-                document.write(VK.Share.button({
-                    url: "{{post.url}}"
-                }, {
-                    type: "custom",
-                    text: "<img src=\"https://vk.com/images/share_32.png\" width=\"32\" height=\"32\" />"
-                }));
-            </script>
+                  <!-- TODO beautify pictures -->
+                  <script type="text/javascript">
+                      document.write(VK.Share.button({
+                          url: "{{post.url}}"
+                      }, {
+                          type: "custom",
+                          text: "<img src=\"https://vk.com/images/share_32.png\" width=\"32\" height=\"32\" />"
+                      }));
+                  </script>
 
-            <div class="fb-share-button" data-href="{{post.url}}" data-layout="button" data-size="large"><a
-                    target="_blank"
-                    href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse"
-                    class="fb-xfbml-parse-ignore">Поделиться</a></div>
+                  <div class="fb-share-button" data-href="{{post.url}}" data-layout="button" data-size="large"><a
+                          target="_blank"
+                          href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse"
+                          class="fb-xfbml-parse-ignore">Поделиться</a></div>
 
-            <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{post.url}}" data-size="large">
-                Tweet</a>
-        </div>
-    </div>
-</footer>
+                  <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{post.url}}"
+                      data-size="large">
+                      Tweet</a>
+
+                  <li class="list-inline-item">
+                      <a href="{{ site.url }}{{site.contact}}">
+                          <span class="fa-stack fa-lg">
+                              <i class="fas fa-circle fa-stack-2x"></i>
+                              <i class="fas fa-address-card fa-stack-1x fa-inverse"></i>
+                          </span>
+                      </a>
+                  </li>
+                  </a>
+              </div>
+          </div>
+      </div>
+
+
+
+
+
+
+  </footer>

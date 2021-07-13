@@ -1,0 +1,13 @@
+---
+layout: student_page
+title:  "Bulat Nureev"
+categories: jekyll update
+---
+
+Тут можно что-то написать
+
+
+
+
+
+
