@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: student_page
 title:  "Bulat Nureev"
 date:   2014-11-01 20:07:22
 categories: jekyll update
