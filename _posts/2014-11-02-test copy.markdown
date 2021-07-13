@@ -7,18 +7,5 @@ categories: jekyll update
 
 Тут можно что-то написать
 
-
-
-<!-- TODO beautify pictures -->
-<script type="text/javascript"><!--
-document.write(VK.Share.button({url: "{{post.url}}"},{type: "custom", text: "<img src=\"https://vk.com/images/share_32.png\" width=\"32\" height=\"32\" />"}));
---></script>
-
-<div class="fb-share-button" data-href="{{post.url}}" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Поделиться</a></div>
-
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text={{post.url}}"
-  data-size="large">
-Tweet</a>
-
+трали-вали. чето там
 
