@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Анастасия Чумик"
+categories: jekyll update
+---
