@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Григорьев Константин"
+categories: jekyll update
+---
