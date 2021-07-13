@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Емец Екатерина"
+categories: jekyll update
+---
