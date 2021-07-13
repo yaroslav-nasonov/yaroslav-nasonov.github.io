@@ -1,0 +1,5 @@
+---
+layout: student_page
+title:  "Муштаков Димитрий"
+categories: jekyll update
+---
