@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Bulat Nureev"
+layout: student_page
+title:  "Булат Нуреев"
 date:   2014-11-01 20:07:22
 categories: jekyll update
 ---
@@ -9,3 +9,6 @@ categories: jekyll update
 
 трали-вали. чето там
 
+
+<img class="img-fluid" src="/img/posts/cat.jpg" alt="cat">
+<span class="caption text-muted">"Описание картинки, если надо".</span>
