@@ -4,23 +4,34 @@
   {% include head.html %}
 
   <body>
+    <div class="container">
 
-    {% include header.html %}
+        {% include header.html %}
 
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
+        <div class="page-content">
+          <div class="wrapper">
+            <header class="post-header">
+              <h1 class="post-title">Узнай, как ты учился на MOOVE</h1>
+            </header>
+            <ol>
+              <li>Вбей имя и фамилию в поисковой строке</li>
+              <li>Получи результаты учебы на MOOVE</li>
+              <li>Поделись в соцсетях</li>
+            </ol>
+            <div id="search-demo-container">
+              <input type="search" id="search-input" placeholder="Найти...">
+              <ul id="results-container"></ul>
+            </div>
+            <div>
+              {{ content }}
+            </div>
+          </div>
+        </div>
+
+
+        {% include footer.html %}
+
     </div>
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include share.html %}
-
-    {% include footer.html %}
 
     <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
 
@@ -30,7 +41,7 @@
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
+        noResultsText: 'Не найдено',
         limit: 10,
         fuzzy: false,
         exclude: ['Welcome']

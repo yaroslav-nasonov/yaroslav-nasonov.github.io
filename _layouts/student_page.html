@@ -1,14 +1,32 @@
 ---
 layout: default
 ---
-<div class="post">
 
+<div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
+  <div id="search-demo-container">
+    <input type="search" id="search-input" placeholder="Найти...">
+    <ul id="results-container"></ul>
+  </div>
 
   <article class="post-content">
     {{ content }}
   </article>
 
+  <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
+
+  <script>
+    window.simpleJekyllSearch = new SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{ site.baseurl }}/search.json',
+      searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+      noResultsText: 'Не найдено',
+      limit: 10,
+      fuzzy: false,
+      exclude: ['Welcome']
+    })
+  </script>
 </div>

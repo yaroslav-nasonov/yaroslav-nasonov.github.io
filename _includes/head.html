@@ -9,31 +9,13 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <style>
-      #search-demo-container {
-        max-width: 40em;
-        padding: 1em;
-        margin: 1em auto;
-        border: 1px solid lightgrey;
-      }
-      #search-input {
-        display: inline-block;
-        padding: .5em;
-        width: 100%;
-        font-size: 0.8em;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-      }
-    </style>
-
   <!-- VK -->
   <script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
-  
+
   <!-- FB -->
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v11.0" nonce="jkbIvkbc"></script>
-  
+
   <!-- Twitter -->
   <script>window.twttr = (function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0],
@@ -43,12 +25,12 @@
     js.id = id;
     js.src = "https://platform.twitter.com/widgets.js";
     fjs.parentNode.insertBefore(js, fjs);
-  
+
     t._e = [];
     t.ready = function(f) {
       t._e.push(f);
     };
-  
+
     return t;
   }(document, "script", "twitter-wjs"));</script>
 

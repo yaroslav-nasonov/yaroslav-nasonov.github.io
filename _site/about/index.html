@@ -6,29 +6,37 @@
     <meta name="viewport" content="width=device-width initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>About</title>
+    <title>О программе</title>
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="/about/">
 
-    <style>
-      #search-demo-container {
-        max-width: 40em;
-        padding: 1em;
-        margin: 1em auto;
-        border: 1px solid lightgrey;
-      }
-      #search-input {
-        display: inline-block;
-        padding: .5em;
-        width: 100%;
-        font-size: 0.8em;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-      }
-    </style>
+  <!-- VK -->
+  <script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
+
+  <!-- FB -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v11.0" nonce="jkbIvkbc"></script>
+
+  <!-- Twitter -->
+  <script>window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));</script>
+
 </head>
 
 
@@ -52,7 +60,11 @@
       <div class="trigger">
         
           
-          <a class="page-link" href="/about/">About</a>
+          <a class="page-link" href="/about/">О программе</a>
+          
+        
+          
+          <a class="page-link" href="/">Главная</a>
           
         
           
@@ -69,25 +81,19 @@
 </header>
 
 
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
-
     <div class="page-content">
       <div class="wrapper">
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">About</h1>
+    <h1 class="post-title">О программе</h1>
   </header>
 
   <article class="post-content">
-    <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
+    <p>MOOVE programme by SKOLKOVO x MTS
+Программа, на которой ты создашь цифровой продукт в команде и научишься управлять проектами. Гранты лучшим студентам!</p>
 
-<p>You can find the source code for the Jekyll new theme at: <a href="https://github.com/jglovier/jekyll-new">github.com/jglovier/jekyll-new</a></p>
-
-<p>You can find the source code for Jekyll at <a href="https://github.com/jekyll/jekyll">github.com/jekyll/jekyll</a></p>
+<p><a href="https://www.skolkovo.ru/programmes/07112020-moove-by-skolkovo-mts/">Подробнее о программе</a></p>
 
   </article>
 
@@ -95,6 +101,83 @@
 
       </div>
     </div>
+
+      <!-- VK -->
+  <script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
+
+  <!-- FB -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v11.0"
+      nonce="jkbIvkbc"></script>
+
+  <!-- Twitter -->
+  <script>
+      window.twttr = (function (d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0],
+              t = window.twttr || {};
+          if (d.getElementById(id)) return t;
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "https://platform.twitter.com/widgets.js";
+          fjs.parentNode.insertBefore(js, fjs);
+
+          t._e = [];
+          t.ready = function (f) {
+              t._e.push(f);
+          };
+
+          return t;
+      }(document, "script", "twitter-wjs"));
+  </script>
+
+
+  <footer class="site-footer">
+      <div class="page-content">
+          <div class="wrapper">
+              <div class="row">
+
+                  <h1 class="footer-heading">Делитесь в социальных сетях</h1>
+
+
+
+                  <!-- TODO beautify pictures -->
+                  <script type="text/javascript">
+                      document.write(VK.Share.button({
+                          url: ""
+                      }, {
+                          type: "custom",
+                          text: "<img src=\"https://vk.com/images/share_32.png\" width=\"32\" height=\"32\" />"
+                      }));
+                  </script>
+
+                  <div class="fb-share-button" data-href="" data-layout="button" data-size="large"><a
+                          target="_blank"
+                          href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse"
+                          class="fb-xfbml-parse-ignore">Поделиться</a></div>
+
+                  <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text="
+                      data-size="large">
+                      Tweet</a>
+
+                  <li class="list-inline-item">
+                      <a href="">
+                          <span class="fa-stack fa-lg">
+                              <i class="fas fa-circle fa-stack-2x"></i>
+                              <i class="fas fa-address-card fa-stack-1x fa-inverse"></i>
+                          </span>
+                      </a>
+                  </li>
+                  </a>
+              </div>
+          </div>
+      </div>
+
+
+
+
+
+
+  </footer>
 
     <footer class="site-footer">
 
@@ -128,20 +211,6 @@
 </footer>
 
 
-    <script src="/js/simple-jekyll-search.min.js"></script>
-
-    <script>
-      window.simpleJekyllSearch = new SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
-        limit: 10,
-        fuzzy: false,
-        exclude: ['Welcome']
-      })
-    </script>
 
   </body>
 

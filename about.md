@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About
+title: О программе
 permalink: /about/
 ---
 
-Тут можно написать что-то о школе, дать сылки на учебные программы, может быть что-то еще. Дальше просто пример вставки ссылок. 
+MOOVE programme by SKOLKOVO x MTS
+Программа, на которой ты создашь цифровой продукт в команде и научишься управлять проектами. Гранты лучшим студентам!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[Подробнее о программе](https://www.skolkovo.ru/programmes/07112020-moove-by-skolkovo-mts/)

@@ -1,8 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap");
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: "Raleway", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; font-weight: 300; color: #000; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
@@ -28,7 +29,7 @@ a { color: #2a7ae2; text-decoration: none; }
 
 a:visited { color: #1756a9; }
 
-a:hover { color: #111; text-decoration: underline; }
+a:hover { color: #000; text-decoration: underline; }
 
 /** Blockquotes */
 blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
@@ -68,7 +69,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .site-nav .menu-icon { display: none; }
 
-.site-nav .page-link { color: #111; line-height: 1.5; }
+.site-nav .page-link { color: #000; line-height: 1.5; }
 
 .site-nav .page-link:not(:first-child) { margin-left: 20px; }
 
@@ -249,5 +250,55 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .vi { color: #008080; }
 
 .highlight .il { color: #099; }
+
+body, html { height: 100%; margin: 0; padding: 0; }
+
+body { color: #fff; font-weight: 500; background: url("https://sk.skolkovo.ru/img/4c5afcd1-c052-4ffb-86d1-52728b7ffb9f/moove.jpg?fm=jpg&q=80&fit=crop&crop=3000%2C2000%2C0%2C0&w=2560&h=948") no-repeat; /* background-color: crimson; */ /* background: url('https://common.skolkovo.ru/moove-by-skolkovo-mts-old/images/background.svg') repeat; */ background-size: cover; background-attachment: fixed !important; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; }
+
+.site-header { margin: 3rem 0; padding: 0; border-top: 0 solid; border-bottom: 0 solid; }
+
+.site-title { content: url("https://www.skolkovo.ru/frontimg/logo-sk-mts.png"); width: 272px; display: block; height: auto !important; }
+
+@media screen and (max-width: 600px) { .site-title { width: 200px; } }
+
+.site-nav .page-link { color: #fff; line-height: 1.5; }
+
+@media screen and (max-width: 600px) { .site-nav .page-link { color: #000; } }
+
+#search-demo-container { padding: 0 !important; margin: 3rem auto !important; border: 0 solid lightgrey !important; max-width: 100% !important; display: flex; flex-direction: column; width: 100%; }
+
+#results-container { color: #fff; }
+
+.home { display: none; }
+
+#search-input { display: inline-block; padding: 0; width: 100%; font-size: 1rem !important; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; -webkit-appearance: textfield; }
+
+input:matches([type="button"], [type="checkbox"], [type="file"], [type="hidden"], [type="image"], [type="radio"], [type="reset"], [type="search"], [type="submit"]):focus, input[type="file"]:focus::file-selector-button { outline-offset: 0; outline-color: none; }
+
+.list-inline-item { display: none; }
+
+a { color: #fff; text-decoration: none; }
+
+a:visited { color: #fff; }
+
+a:hover { color: #fff; text-decoration: underline; }
+
+.site-footer a span { display: inline-flex !important; }
+
+.site-footer a span img { width: 28px !important; height: 28px !important; }
+
+.fb_iframe_widget { display: inline-flex !important; position: relative !important; }
+
+.twitter-share-button.twitter-share-button-rendered.twitter-tweet-button { position: relative !important; visibility: visible !important; width: 76px !important; height: 28px !important; display: inline-flex !important; }
+
+.page-content { padding: 0; }
+
+.site-footer { border-top: 0 solid; }
+
+.footer-heading { font-size: 1.5rem; margin-bottom: 15px; color: #fff; }
+
+.footer-col-wrapper { font-size: 1rem; color: #fff; display: none; }
+
+.footer-heading { font-size: 1.5rem; margin-bottom: 15px; color: #fff; display: none; }
 
 /*# sourceMappingURL=main.css.map */
