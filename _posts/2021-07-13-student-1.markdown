@@ -3,3 +3,5 @@ layout: student_page
 title:  "Александр Сидоров"
 categories: jekyll update
 ---
+
+<img class="img-fluid" src="/img/posts/photo_2021-07-20 11.00.11.jpeg" alt="test">
