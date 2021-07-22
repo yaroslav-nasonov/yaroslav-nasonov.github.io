@@ -1,0 +1,13 @@
+title:              Moove Students
+baseurl:            "/"
+url:                "https://students-moove.skolkovo.ru"
+
+
+plugins:
+  - jekyll-seo-tag
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   G-3FYQ7GRVSJ # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
