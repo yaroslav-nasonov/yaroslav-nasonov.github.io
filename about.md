@@ -1,7 +1,7 @@
 ---
 layout: page
 title: О программе
-permalink: /about/
+permalink: /about
 ---
 
 MOOVE programme by SKOLKOVO x MTS
