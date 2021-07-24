@@ -3,4 +3,4 @@ layout: student_page
 title:  "Швецова Валерия"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Швецова Валерия.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Швецова Валерия.png" alt="moove-1">
