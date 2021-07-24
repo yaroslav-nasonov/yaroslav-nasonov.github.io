@@ -3,3 +3,4 @@ layout: student_page
 title:  "Артем Кормилицын"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Артем Кормилицын.png" alt="moove-2">
