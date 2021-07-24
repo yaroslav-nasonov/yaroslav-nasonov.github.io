@@ -3,3 +3,4 @@ layout: student_page
 title:  "Брюшинин Александр"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Брюшинин Александр.png" alt="moove-2">
