@@ -3,3 +3,4 @@ layout: student_page
 title:  "Филимонова София"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Филимонова София.png" alt="moove-2">
