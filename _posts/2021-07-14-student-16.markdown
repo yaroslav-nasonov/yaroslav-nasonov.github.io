@@ -3,3 +3,4 @@ layout: student_page
 title:  "Лаврентьев Даниил"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Лаврентьев Даниил.png" alt="moove-2">
