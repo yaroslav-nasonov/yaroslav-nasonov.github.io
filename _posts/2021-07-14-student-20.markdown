@@ -3,4 +3,4 @@ layout: student_page
 title:  "Мхитарян Ваагн"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Мхитарян Ваагн.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Мхитарян Ваагн.png" alt="moove-1">
