@@ -3,3 +3,4 @@ layout: student_page
 title:  "Кирилл Ласкин"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Кирилл Ласкин.png" alt="moove-2">
