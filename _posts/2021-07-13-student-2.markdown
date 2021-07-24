@@ -3,3 +3,4 @@ layout: student_page
 title:  "Антон Горький"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Антон Горький.png" alt="moove-2">
