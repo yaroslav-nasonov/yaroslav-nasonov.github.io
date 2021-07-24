@@ -3,3 +3,4 @@ layout: student_page
 title:  "Цалкин Родион"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Цалкин Родион.png" alt="moove-2">
