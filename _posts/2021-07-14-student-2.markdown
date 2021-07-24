@@ -3,4 +3,4 @@ layout: student_page
 title:  "Белоусько Максим"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Белоусько Максим.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Белоусько Максим.png" alt="moove-1">
