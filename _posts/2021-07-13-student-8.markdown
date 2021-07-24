@@ -3,3 +3,4 @@ layout: student_page
 title:  "Андрей Бородкин"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Андрей Бородкин.png" alt="moove-2">
