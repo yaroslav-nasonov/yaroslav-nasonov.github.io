@@ -3,3 +3,4 @@ layout: student_page
 title:  "Фокина Дарья"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Фокина Дарья.png" alt="moove-2">
