@@ -3,3 +3,4 @@ layout: student_page
 title:  "Мария Богдашевская"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Мария Богдашевская.png" alt="moove-2">
