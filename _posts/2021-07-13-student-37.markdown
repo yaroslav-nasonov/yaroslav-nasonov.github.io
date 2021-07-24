@@ -3,3 +3,4 @@ layout: student_page
 title:  "Евгения Савельева"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Евгения Савельева.png" alt="moove-2">
