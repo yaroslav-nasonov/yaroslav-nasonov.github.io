@@ -3,4 +3,4 @@ layout: student_page
 title:  "Тищук Кристина"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Тищук Кристина.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Тищук Кристина.png" alt="moove-1">
