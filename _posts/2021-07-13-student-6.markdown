@@ -3,4 +3,4 @@ layout: student_page
 title:  "Виктория Глиба"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Виктория Глиба.png" alt="moove-1">
+<img class="img-fluid" src="/img/posts/Виктория Глиба.png" alt="moove-2">
