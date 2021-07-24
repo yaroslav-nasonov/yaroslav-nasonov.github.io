@@ -1,0 +1,7 @@
+---
+layout: student_page
+title:  "Александр Колегов"
+categories: jekyll update
+---
+
+<img class="img-fluid" src="/img/posts/Александр Колегов.png" alt="team">
