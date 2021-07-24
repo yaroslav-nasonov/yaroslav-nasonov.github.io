@@ -3,3 +3,4 @@ layout: student_page
 title:  "Азат Мингалеев"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Азат Мингалеев.png" alt="moove-2">
