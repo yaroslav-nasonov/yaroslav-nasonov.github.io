@@ -3,3 +3,4 @@ layout: student_page
 title:  "Вероника Ожогина"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Вероника Ожогина.png" alt="moove-2">
