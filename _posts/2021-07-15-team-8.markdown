@@ -4,4 +4,4 @@ title:  "Михаил Хазан
 categories: jekyll update
 ---
 
-<img class="img-fluid" src="/img/posts/Михаил Хазанв.png" alt="team">
+<img class="img-fluid" src="/img/posts/Михаил Хазан.png" alt="team">
