@@ -1,0 +1,7 @@
+---
+layout: student_page
+title:  "Денис Спиринв"
+categories: jekyll update
+---
+
+<img class="img-fluid" src="/img/posts/Денис Спирин.png" alt="team">
