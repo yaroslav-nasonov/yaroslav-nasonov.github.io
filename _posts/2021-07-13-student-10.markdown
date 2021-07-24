@@ -3,3 +3,4 @@ layout: student_page
 title:  "Дарья Травкина"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Дарья Травкина.png" alt="moove-2">
