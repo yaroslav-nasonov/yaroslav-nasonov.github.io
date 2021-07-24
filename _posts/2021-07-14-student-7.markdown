@@ -3,4 +3,4 @@ layout: student_page
 title:  "Герасимов Николай"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Герасимов Николай.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Герасимов Николай.png" alt="moove-1">
