@@ -3,3 +3,4 @@ layout: student_page
 title:  "Гугля Глеб"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Гугля Глеб.png" alt="moove-2">
