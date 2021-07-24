@@ -3,3 +3,4 @@ layout: student_page
 title:  "Фатеева Алина"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Фатеева Алина.png" alt="moove-2">
