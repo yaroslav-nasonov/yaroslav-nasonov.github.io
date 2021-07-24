@@ -3,3 +3,4 @@ layout: student_page
 title:  "Алёна Мистрюкова"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Алена Мистрюкова.png" alt="moove-2">
