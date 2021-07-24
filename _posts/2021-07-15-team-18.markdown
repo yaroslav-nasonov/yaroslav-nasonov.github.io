@@ -1,0 +1,7 @@
+---
+layout: student_page
+title:  "Мария Ломовцева"
+categories: jekyll update
+---
+
+<img class="img-fluid" src="/img/posts/Мария Ломовцева.png" alt="team">
