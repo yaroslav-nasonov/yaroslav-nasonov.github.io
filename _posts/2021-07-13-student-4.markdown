@@ -3,5 +3,4 @@ layout: student_page
 title:  "Александр Плетнев"
 categories: jekyll update
 ---
-
 <img class="img-fluid" src="/img/posts/Александр Плетнев.png" alt="moove-2">
