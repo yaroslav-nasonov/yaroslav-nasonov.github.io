@@ -1,6 +1,6 @@
 ---
 layout: student_page
-title:  " Булат Нуреев"
+title:  "Булат Нуреев"
 categories: jekyll update
 ---
 
