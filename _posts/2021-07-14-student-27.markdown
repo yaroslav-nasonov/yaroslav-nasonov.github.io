@@ -3,3 +3,4 @@ layout: student_page
 title:  "Синтюрихина Полина"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Синтюрихина Полина.png" alt="moove-2">
