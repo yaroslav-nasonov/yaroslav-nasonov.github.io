@@ -3,3 +3,4 @@ layout: student_page
 title:  "Ирина Ярош"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Ирина Ярош.png" alt="moove-2">
