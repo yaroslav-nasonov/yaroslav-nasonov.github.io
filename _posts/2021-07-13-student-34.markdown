@@ -3,4 +3,4 @@ layout: student_page
 title:  "Максим Зиборов"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Максим Зиборов.pngg" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Максим Зиборов.png" alt="moove-2">
