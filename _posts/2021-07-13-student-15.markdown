@@ -3,4 +3,5 @@ layout: student_page
 title:  "Дмитрий Вдовин"
 categories: jekyll update
 ---
+
 <img class="img-fluid" src="/img/posts/Дмитрий Вдовин.png" alt="moove-2">
