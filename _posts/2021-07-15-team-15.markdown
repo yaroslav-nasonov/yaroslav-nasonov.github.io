@@ -1,0 +1,7 @@
+---
+layout: student_page
+title:  "Дарья Перевезенцева"
+categories: jekyll update
+---
+
+<img class="img-fluid" src="/img/posts/Дарья Перевезенцева.png" alt="team">
