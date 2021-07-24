@@ -1,0 +1,7 @@
+---
+layout: student_page
+title:  "Иван Хворов"
+categories: jekyll update
+---
+
+<img class="img-fluid" src="/img/posts/Иван Хворов.png" alt="team">
