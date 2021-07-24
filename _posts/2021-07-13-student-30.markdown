@@ -1,5 +1,6 @@
 ---
 layout: student_page
-title:  "Александр Сидоров"
+title:  "Алевтина Фомина"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Алевтина Фомина.png" alt="moove-2">
