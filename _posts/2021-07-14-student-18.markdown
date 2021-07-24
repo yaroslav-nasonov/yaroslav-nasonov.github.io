@@ -3,3 +3,4 @@ layout: student_page
 title:  "Меньших Игорь"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Меньших Игорь.png" alt="moove-2">
