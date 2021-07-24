@@ -3,4 +3,4 @@ layout: student_page
 title:  "Дмитрий Микулин"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Дмитрий Микулин.png" alt="moove-1">
+<img class="img-fluid" src="/img/posts/Дмитрий Микулин.png" alt="moove-2">
