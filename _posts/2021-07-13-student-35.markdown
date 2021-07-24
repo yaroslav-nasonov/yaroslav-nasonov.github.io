@@ -1,5 +1,6 @@
 ---
 layout: student_page
-title:  "Дарья Котельникова"
+title:  "Дарья Киселева"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Дарья Киселева.png" alt="moove-2">
