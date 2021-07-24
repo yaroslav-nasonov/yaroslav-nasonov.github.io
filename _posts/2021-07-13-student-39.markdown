@@ -3,3 +3,4 @@ layout: student_page
 title:  "Анастасия Чумик"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Анастасия Чумик.png" alt="moove-2">
