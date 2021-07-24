@@ -3,4 +3,4 @@ layout: student_page
 title:  "Олейникова Наала"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Олейникова Наала.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Олейникова Наала.png" alt="moove-1">
