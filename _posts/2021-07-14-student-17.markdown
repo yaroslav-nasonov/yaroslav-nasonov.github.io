@@ -3,3 +3,4 @@ layout: student_page
 title:  "Матевосян Гор"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Матевосян Гор.png" alt="moove-2">
