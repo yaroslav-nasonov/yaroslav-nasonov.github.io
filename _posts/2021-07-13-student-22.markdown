@@ -3,3 +3,4 @@ layout: student_page
 title:  "Александр Сарачаков"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Александр Сарачаков.png" alt="moove-2">
