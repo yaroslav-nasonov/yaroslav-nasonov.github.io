@@ -3,4 +3,4 @@ layout: student_page
 title:  "Эгамбердиев Отабек"
 categories: jekyll update
 ---
-<img class="img-fluid" src="/img/posts/Эгамбердиев Отабек.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Эгамбердиев Отабек.png" alt="moove-1">
