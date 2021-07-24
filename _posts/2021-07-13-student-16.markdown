@@ -3,3 +3,4 @@ layout: student_page
 title:  "Диана Казакова"
 categories: jekyll update
 ---
+<img class="img-fluid" src="/img/posts/Диана Казакова.png" alt="moove-2">
