@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Январев Влад"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Январев Влад.png" alt="moove-1">

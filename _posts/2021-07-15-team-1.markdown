@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Булат Нуреев"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Булат Нуреев.png" alt="team">

@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Азалия Валиева"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Азалия Валиева.png" alt="moove-2">

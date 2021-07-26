@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Мария Кузнецова"
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Мария Кузнецова.png" alt="team">

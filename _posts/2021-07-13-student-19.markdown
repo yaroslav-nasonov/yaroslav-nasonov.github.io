@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Никита Бондарев"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Никита Бондарев.png" alt="moove-2">

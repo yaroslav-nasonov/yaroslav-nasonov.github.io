@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Руслан Касьянов"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Руслан Касьянов.png" alt="moove-2">

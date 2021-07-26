@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Бурмистров Павел"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Бурмистров Павел.png" alt="moove-1">

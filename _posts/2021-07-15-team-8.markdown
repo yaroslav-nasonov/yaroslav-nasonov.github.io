@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Михаил Хазан
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Михаил Хазан.png" alt="team">

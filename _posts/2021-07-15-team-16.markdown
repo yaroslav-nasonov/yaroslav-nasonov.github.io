@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Варвара Носуля"
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Варвара Носуля.png" alt="team">

@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Никита Братищев"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Никита Братищев.png" alt="moove-2">

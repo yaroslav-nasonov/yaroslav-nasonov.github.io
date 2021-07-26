@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Артем Зуев"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Артем Зуев.png" alt="moove-2">

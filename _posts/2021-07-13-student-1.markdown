@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Александр Сидоров"
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Александр Сидоров.png" alt="moove-2">

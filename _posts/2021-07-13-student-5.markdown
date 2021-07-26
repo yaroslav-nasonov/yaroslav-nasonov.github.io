@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Виктор Бобров"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Виктор Бобров.png" alt="moove-2">

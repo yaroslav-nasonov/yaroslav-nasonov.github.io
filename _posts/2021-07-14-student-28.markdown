@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Скринник Михаил"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Скринник Михаил.png" alt="moove-1">

@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Полина Малютина"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Полина Малютина.png" alt="moove-2">

@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Полищук Александр"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Полищук Александр.png" alt="moove-1">

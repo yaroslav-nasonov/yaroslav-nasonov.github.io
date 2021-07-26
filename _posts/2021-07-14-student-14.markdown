@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Козлов Никита"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Козлов Никита.png" alt="moove-2">

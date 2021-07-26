@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Виктор Иванов"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Виктор Иванов.png" alt="moove-2">

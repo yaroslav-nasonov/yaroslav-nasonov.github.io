@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Левон Кафафов"
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Левон Кафафов.png" alt="team">

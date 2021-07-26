@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Воронецкий Юлиан"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Воронецкий Юлиан.png" alt="moove-1">

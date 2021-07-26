@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Анастасия Сирикова"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Анастасия Сирикова.png" alt="moove-2">

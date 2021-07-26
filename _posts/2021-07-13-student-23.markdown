@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Ирина Чувашева"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Ирина Чувашева.png" alt="moove-2">

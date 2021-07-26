@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Артем Игнатович"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Артем Игнатович.png" alt="moove-2">

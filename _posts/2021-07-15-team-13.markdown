@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Яна Дзимидавичюс"
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Яна Дзимидавичюс.png" alt="team">

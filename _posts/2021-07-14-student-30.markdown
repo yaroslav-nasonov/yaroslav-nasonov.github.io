@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Тришин Никита"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Тришин Никита.png" alt="moove-1">

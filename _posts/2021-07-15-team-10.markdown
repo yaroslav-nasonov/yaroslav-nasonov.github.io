@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Павел Рубцов"
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Павел Рубцов.png" alt="team">

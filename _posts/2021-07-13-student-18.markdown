@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Денис Хакулов"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Денис Хакулов.png" alt="moove-2">

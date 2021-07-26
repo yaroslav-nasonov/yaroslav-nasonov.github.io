@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Фатыхов Булат"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Фатыхов Булат.png" alt="moove-1">

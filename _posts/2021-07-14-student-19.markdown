@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Муштаков Димитрий"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Муштаков Димитрий.png" alt="moove-1">

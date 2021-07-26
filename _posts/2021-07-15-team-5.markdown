@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Юлия Дворянинова"
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Юлия Дворянинова.png" alt="team">

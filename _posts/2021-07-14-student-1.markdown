@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Алексашин Михаил"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Алексашин Михаил.png" alt="moove-1">

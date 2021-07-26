@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Насонов Ярослав"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Насонов Ярослав.png" alt="moove-1">

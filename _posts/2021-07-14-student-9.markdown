@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Грудин Дмитрий"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Грудин Дмитрий.png" alt="moove-1">

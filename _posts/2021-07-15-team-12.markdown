@@ -1,7 +1,7 @@
 ---
 layout: student_page
 title:  "Бахтияр Ибраимов"
-categories: jekyll update
+
 ---
 
 <img class="img-fluid" src="/img/posts/Бахтияр Ибраимов.png" alt="team">

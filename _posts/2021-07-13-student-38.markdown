@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Александр Лазаренко"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Александр Лазаренко.png" alt="moove-2">

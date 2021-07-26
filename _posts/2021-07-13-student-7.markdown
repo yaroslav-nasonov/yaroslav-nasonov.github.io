@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Татьяна Филиппова"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Татьяна Филиппова.png" alt="moove-2">

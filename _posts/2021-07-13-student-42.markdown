@@ -1,6 +1,6 @@
 ---
 layout: student_page
 title:  "Мария Броницкая"
-categories: jekyll update
+
 ---
 <img class="img-fluid" src="/img/posts/Мария Броницкая.png" alt="moove-2">
