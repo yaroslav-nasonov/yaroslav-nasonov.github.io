@@ -16,6 +16,13 @@
     <meta property="og:image" content="{{ page.urlimg }}">
     <meta property="og:image:width" content="968">
     <meta property="og:image:height" content="504">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Студент MOOVE">
+    <meta name="twitter:description" content="{{ page.title }}. Результаты учебы на MOOVE">
+    <meta name="twitter:image:src" content="{{ page.urlimg }}">
+    <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="twitter:domain" content="moove-students.skolkovo.ru">
      <!-- meta info -->
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
