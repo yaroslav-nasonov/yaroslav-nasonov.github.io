@@ -2,6 +2,7 @@
 layout: student_page
 title:  "Александр Сидоров"
 urlimg: http://moove-students.skolkovo.ru/img/posts/Александр%20Сидоров.png
+vkimage: http://moove-students.skolkovo.ru/img/posts/Александр%20Сидоров.png
 
 ---
 
