@@ -2,8 +2,8 @@
 layout: student_page
 title:  "Александр Сидоров"
 urlimg: "http://moove-students.skolkovo.ru/img/posts/Меньших%20Игорь.png"
-{% include head.html content="http://moove-students.skolkovo.ru/img/posts/Меньших%20Игорь.png" %}
 
 ---
 
 <img class="img-fluid" src="/img/posts/Александр Сидоров.png" alt="moove-2">
+
