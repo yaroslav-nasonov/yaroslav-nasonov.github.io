@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Максим Зиборов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Максим%20Зиборов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Максим%20Зиборов%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Максим Зиборов.png" alt="moove-2">
