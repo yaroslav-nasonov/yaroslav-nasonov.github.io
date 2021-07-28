@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Виктория Глиба"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Виктория%20Глиба.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Виктория%20Глиба%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Виктория Глиба.png" alt="moove-2">
