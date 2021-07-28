@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Меньших Игорь"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Меньших%20Игорь.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Игорь%20Меньших%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Меньших Игорь.png" alt="moove-1">
