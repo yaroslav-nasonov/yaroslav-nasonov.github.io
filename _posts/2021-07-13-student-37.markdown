@@ -2,7 +2,7 @@
 layout: student_page
 title:  "Евгения Савельева"
 urlimg: http://moove-students.skolkovo.ru/img/posts/Евгения%20Савельева.png
-vkimage: http://moove-students.skolkovo.ru/img/vkimage/Евгения%20Савельева%20для%20Вк.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Евения%20Савельева%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Евгения Савельева.png" alt="moove-2">
