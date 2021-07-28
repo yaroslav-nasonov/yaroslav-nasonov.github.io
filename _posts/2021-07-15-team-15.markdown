@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Дарья Перевезенцева"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Дарья%20Перевезенцева.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Дарья%20Перевезенцева%20для%20Вк.png
 
 ---
 
