@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Андрей Бородкин"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Андрей%20Бородкин.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Андрей%20Бородкин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Андрей Бородкин.png" alt="moove-2">
