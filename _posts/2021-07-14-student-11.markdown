@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Емец Екатерина"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Емец%20Екатерина.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Екатерина%20Емец%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Емец Екатерина.png" alt="moove-1">
