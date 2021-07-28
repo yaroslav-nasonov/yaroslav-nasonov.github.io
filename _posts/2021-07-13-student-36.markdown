@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Ирина Ярош"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Ирина%20Ярош.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Ирина%20Ярош%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Ирина Ярош.png" alt="moove-2">
