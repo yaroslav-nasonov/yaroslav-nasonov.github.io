@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Булат Нуреев"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Булат%20Нуреев.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Булат%20Нуреев%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Булат Нуреев.png" alt="team">
