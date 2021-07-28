@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Полина Малютина"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Полина%20Малютина.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Полина%20Малютина%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Полина Малютина.png" alt="moove-2">
