@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Диана Казакова"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Диана%20Казакова.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Диана%20Казакова%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Диана Казакова.png" alt="moove-2">
