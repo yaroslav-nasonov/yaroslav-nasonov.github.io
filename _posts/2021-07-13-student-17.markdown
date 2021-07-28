@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Анастасия Сирикова"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Анастасия%20Сирикова.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Анастасия%20Сирикова%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Анастасия Сирикова.png" alt="moove-2">
