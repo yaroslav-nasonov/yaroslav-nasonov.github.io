@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Алексашин Михаил"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Алексашин%20Михаил.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Михаил%20Алексашин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Алексашин Михаил.png" alt="moove-1">
