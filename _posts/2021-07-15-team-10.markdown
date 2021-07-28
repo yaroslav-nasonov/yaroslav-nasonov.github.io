@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Павел Рубцов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Павел%20Рубцов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Павел%20Рубцов%20для%20Вк.png
 
 ---
 
