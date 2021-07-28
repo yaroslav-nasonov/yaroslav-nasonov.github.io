@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Артем Игнатович"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Артем%20Игнатович.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Артем%20Игнатович%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Артем Игнатович.png" alt="moove-2">
