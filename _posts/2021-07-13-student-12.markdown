@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Руслан Канзепаров"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Руслан%20Канзепаров.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Руслан%20Канзепаров%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Руслан Канзепаров.png" alt="moove-2">
