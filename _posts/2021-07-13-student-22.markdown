@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Александр Сарачаков"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Александр%20Сарачаков.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Александр%20Сарачаков%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Александр Сарачаков.png" alt="moove-2">
