@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Мхитарян Ваагн"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Мхитарян%20Ваагн.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Ваагн%20Мхитарян%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Мхитарян Ваагн.png" alt="moove-1">
