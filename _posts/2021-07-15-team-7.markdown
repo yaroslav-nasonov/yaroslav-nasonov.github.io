@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Денис Спирин"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Денис%20Спирин.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Денис%20Спирин%20для%20Вк.png
 
 ---
 
