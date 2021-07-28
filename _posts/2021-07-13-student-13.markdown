@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Азат Мингалеев"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Азат%20Мингалеев.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Азат%20Мингалеев%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Азат Мингалеев.png" alt="moove-2">
