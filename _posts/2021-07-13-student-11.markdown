@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Мария Богдашевская"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Мария%20Богдашевская.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Мария%20Богдашевская%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Мария Богдашевская.png" alt="moove-2">
