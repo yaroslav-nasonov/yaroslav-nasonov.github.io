@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Варвара Носуля"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Варвара%20Носуля.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Варвара%20Носуля%20для%20Вк.png
 
 ---
 
