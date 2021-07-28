@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Михаил Хазан"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Михаил%20Хазан.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Михаил%20Хазан%20для%20Вк.png
 
 ---
 
