@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Левон Кафафов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Левон%20Кафафов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Левон%20Кафафов%20для%20Вк.png
 
 ---
 
