@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Журавлева Анастасия"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Журавлева%20Анастасия.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Анастасия%20Журавлева%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Журавлева Анастасия.png" alt="moove-1">
