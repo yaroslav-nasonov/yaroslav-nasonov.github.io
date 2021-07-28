@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Мария Кузнецова"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Мария%20Кузнецова.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Кузнецова%20Кузнецова%20для%20Вк.png
 
 ---
 
