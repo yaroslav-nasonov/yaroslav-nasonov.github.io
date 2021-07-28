@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Матевосян Гор"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Матевосян%20Гор.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Гор%20Матевосян%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Матевосян Гор.png" alt="moove-1">
