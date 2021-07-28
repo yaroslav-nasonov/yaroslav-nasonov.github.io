@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Иван Хворов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Иван%20Хворов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Иван%20Хворов%20для%20Вк.png
 
 ---
 
