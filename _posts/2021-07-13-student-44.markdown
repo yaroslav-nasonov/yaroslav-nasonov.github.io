@@ -1,9 +1,9 @@
 ---
 layout: student_page
 title:  "Анастасия Бабинцева"
-urlimg: http://moove-students.skolkovo.ru/img/posts/Анастасия%20Бабинцева.png
+urlimg: http://moove-students.skolkovo.ru/img/posts/Анастасия_Бабинцева1.png
 vkimage: http://moove-students.skolkovo.ru/img/vkimage/Анастасия_Бабинцева_vk.png
 
 
 ---
-<img class="img-fluid" src="/img/posts/Анастасия Бабинцева.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Анастасия_Бабинцева1.png" alt="moove-2">
