@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Козлов Никита"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Козлов%20Никита.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Никита%20Козлов%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Козлов Никита.png" alt="moove-2">
