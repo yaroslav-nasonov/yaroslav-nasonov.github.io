@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Никита Братищев"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Никита%20Братищев.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Никита%20Братищев%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Никита Братищев.png" alt="moove-2">
