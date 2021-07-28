@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Дарья Травкина"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Дарья%20Травкина.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Дарья%20Травкина%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Дарья Травкина.png" alt="moove-2">
