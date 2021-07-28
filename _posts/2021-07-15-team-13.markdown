@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Яна Дзимидавичюс"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Яна%20Дзимидавичюс.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Яна%20Дзимидавичюс%20для%20Вк.png
 
 ---
 
