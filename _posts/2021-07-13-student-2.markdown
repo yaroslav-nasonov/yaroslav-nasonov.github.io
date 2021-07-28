@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Антон Горький"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Антон%20Горький.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Антон%20Горький%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Антон Горький.png" alt="moove-2">
