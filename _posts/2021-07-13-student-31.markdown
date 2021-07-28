@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Артем Зуев"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Артем%20Зуев.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Артем%20Зуев%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Артем Зуев.png" alt="moove-2">
