@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Анастасия Кишкун"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Анастасия%20Кишкун.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Анастасия%20Кишкун%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Анастасия Кишкун.png" alt="moove-2">
