@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Руслан Касьянов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Руслан%20Касьянов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Руслан%20Касьянов%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Руслан Касьянов.png" alt="moove-2">
