@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Дарья Киселева"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Дарья%20Киселева.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Дарья%20Киселева%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Дарья Киселева.png" alt="moove-2">
