@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Памухин Петр"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Памухин%20Петр.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Петр%20Памухин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Памухин Петр.png" alt="moove-1">
