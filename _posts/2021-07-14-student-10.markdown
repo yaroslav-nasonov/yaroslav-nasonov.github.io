@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Гугля Глеб"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Гугля%20Глеб.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Глеб%20Гугля%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Гугля Глеб.png" alt="moove-1">
