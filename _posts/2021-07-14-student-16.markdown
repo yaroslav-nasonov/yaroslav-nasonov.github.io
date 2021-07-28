@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Лаврентьев Даниил"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Лаврентьев%20Даниил.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Даниил%20Лаврентьев%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Лаврентьев Даниил.png" alt="moove-1">
