@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Михаил Ларькин"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Михаил%20Ларькин.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Михаил%20Ларькин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Михаил Ларькин.png" alt="moove-2">
