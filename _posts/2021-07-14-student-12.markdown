@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Еремин Евгений"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Еремин%20Евгений.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Евгений%20Еремин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Еремин Евгений.png" alt="moove-1">
