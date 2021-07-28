@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Вероника Ожогина"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Вероника%20Ожогина.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Вероника%20Ожогина%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Вероника Ожогина.png" alt="moove-2">
