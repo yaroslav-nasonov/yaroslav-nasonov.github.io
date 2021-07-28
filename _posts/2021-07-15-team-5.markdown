@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Юлия Дворянинова"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Юлия%20Дворянинова.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Юлия%20Дворянинова%20для%20Вк.png
 
 ---
 
