@@ -2,7 +2,7 @@
 layout: student_page
 title:  "Тимур Гусейнов"
 urlimg: http://moove-students.skolkovo.ru/img/posts/Тимур%20Гусейнов.png
-vkimage: http://moove-students.skolkovo.ru/img/vkimage/Тимур%20Гусейнов%20для%20Вк.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/тимур.png
 
 ---
 
