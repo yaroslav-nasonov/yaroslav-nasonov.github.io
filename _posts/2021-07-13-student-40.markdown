@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Роман Бармин"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Роман%20Бармин.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Роман%20Бармин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Роман Бармин.png" alt="moove-2">
