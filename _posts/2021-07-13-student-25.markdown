@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Азалия Валиева"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Азалия%20Валиева.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Азалия%20Валиева%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Азалия Валиева.png" alt="moove-2">
