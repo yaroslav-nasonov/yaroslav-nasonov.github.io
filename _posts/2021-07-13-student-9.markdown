@@ -2,7 +2,7 @@
 layout: student_page
 title:  "Дмитрий Микулин"
 urlimg: http://moove-students.skolkovo.ru/img/posts/Дмитрий%20Микулин.png
-vkimage: http://moove-students.skolkovo.ru/img/vkimage/Дмитрий%20Микулин%20для%20Вк.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Микулин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Дмитрий Микулин.png" alt="moove-2">
