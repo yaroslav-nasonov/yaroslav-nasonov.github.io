@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Алёна Мистрюкова"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Алена%20Мистрюкова.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Алена%20Мистрюкова%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Алена Мистрюкова.png" alt="moove-2">
