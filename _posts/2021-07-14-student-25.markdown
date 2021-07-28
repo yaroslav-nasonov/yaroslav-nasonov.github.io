@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Полищук Александр"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Полищук%20Александр.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Александр%20Полищук%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Полищук Александр.png" alt="moove-1">
