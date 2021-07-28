@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Сидоров Илья"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Сидоров%20Илья.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Илья%20Сидоров%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Сидоров Илья.png" alt="moove-1">
