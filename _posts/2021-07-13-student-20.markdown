@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Артем Кормилицын"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Артем%20Кормилицын.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Артем%20Кормилицын%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Артем Кормилицын.png" alt="moove-1">
