@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Олейникова Наала"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Олейникова%20Наала.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Наала%20Олейникова%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Олейникова Наала.png" alt="moove-1">
