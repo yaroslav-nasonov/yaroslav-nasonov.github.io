@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Виктор Иванов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Виктор%20Иванов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Виктор%20Иванов%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Виктор Иванов.png" alt="moove-2">
