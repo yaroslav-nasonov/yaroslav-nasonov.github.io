@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Ирина Чувашева"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Ирина%20Чувашева.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Ирина%20Чувашева%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Ирина Чувашева.png" alt="moove-2">
