@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Грудин Дмитрий"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Грудин%20Дмитрий.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/грудин.png
 
 ---
 <img class="img-fluid" src="/img/posts/Грудин Дмитрий.png" alt="moove-1">
