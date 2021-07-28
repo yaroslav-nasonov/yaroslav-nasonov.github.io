@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Мария Ломовцева"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Мария%20Ломовцева.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Мария%20Ломовцева%20для%20Вк.png
 
 ---
 
