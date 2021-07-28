@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Денис Хакулов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Денис%20Хакулов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Денис%20Хакулов%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Денис Хакулов.png" alt="moove-2">
