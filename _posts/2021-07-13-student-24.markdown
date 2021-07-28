@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Кирилл Ласкин"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Кирилл%20Ласкин.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Кирилл%20Ласкин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Кирилл Ласкин.png" alt="moove-1">
