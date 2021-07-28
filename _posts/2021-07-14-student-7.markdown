@@ -2,7 +2,7 @@
 layout: student_page
 title:  "Герасимов Николай"
 urlimg: http://moove-students.skolkovo.ru/img/posts/Герасимов%20Николай.png
-vkimage: http://moove-students.skolkovo.ru/img/vkimage/Николай%20Герасимов%20для%20Вк.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/герасимов.png
 
 ---
 <img class="img-fluid" src="/img/posts/Герасимов Николай.png" alt="moove-1">
