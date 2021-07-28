@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Александр Колегов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Александр%20Колегов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Александр%20Колегов%20для%20Вк.png
 
 ---
 
