@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Колоколов Даниил"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Колоколов%20Даниил.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Даниил%20Колоколов%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Колоколов Даниил.png" alt="moove-1">
