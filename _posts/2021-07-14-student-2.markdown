@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Белоусько Максим"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Белоусько%20Максим.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Максим%20Белоусько%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Белоусько Максим.png" alt="moove-1">
