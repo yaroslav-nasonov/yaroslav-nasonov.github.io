@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Бахтияр Ибраимов"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Бахтияр%20Ибраимов.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Бахтияр%20Ибраимов%20для%20Вк.png
 
 ---
 
