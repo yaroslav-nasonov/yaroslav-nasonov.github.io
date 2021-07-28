@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Татьяна Филиппова"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Татьяна%20Филиппова.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Татьяна%20Филиппова%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Татьяна Филиппова.png" alt="moove-2">
