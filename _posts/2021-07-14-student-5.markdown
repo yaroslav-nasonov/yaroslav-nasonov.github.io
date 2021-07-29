@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Воронецкий Юлиан"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Воронецкий%20Юлиан.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/воронецк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Воронецкий Юлиан.png" alt="moove-1">
