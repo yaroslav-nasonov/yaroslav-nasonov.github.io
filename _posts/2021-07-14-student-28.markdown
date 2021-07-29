@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Скринник Михаил"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Скринник%20Михаил.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Михаил%20Скринник%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Скринник Михаил.png" alt="moove-1">
