@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Тришин Никита"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Тришин%20Никита.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Никита%20Тришин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Тришин Никита.png" alt="moove-1">
