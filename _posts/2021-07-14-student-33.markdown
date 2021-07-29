@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Филимонова София"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Филимонова%20София.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/София%20Филимонова%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Филимонова София.png" alt="moove-1">
