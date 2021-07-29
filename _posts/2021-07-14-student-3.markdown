@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Брюшинин Александр"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Брюшинин%20Александр.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Александр%20Брюшинин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Брюшинин Александр.png" alt="moove-1">
