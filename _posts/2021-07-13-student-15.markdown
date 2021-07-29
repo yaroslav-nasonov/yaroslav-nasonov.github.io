@@ -2,7 +2,7 @@
 layout: student_page
 title:  "Дмитрий Вдовин"
 urlimg: http://moove-students.skolkovo.ru/img/posts/Дмитрий%20Вдовин.png
-vkimage: http://moove-students.skolkovo.ru/img/vkimage/Дмитрий%20Вдовин%20для%20Вк.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/вдовин.png
 
 ---
 
