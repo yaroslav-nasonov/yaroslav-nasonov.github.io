@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Январев Влад"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Январев%20Влад.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Влад%20Январев%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Январев Влад.png" alt="moove-1">
