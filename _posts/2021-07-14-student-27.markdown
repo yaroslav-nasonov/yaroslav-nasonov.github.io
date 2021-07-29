@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Синтюрихина Полина"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Синтюрихина%20Полина.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Полина%20Синтюрихина%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Синтюрихина Полина.png" alt="moove-1">
