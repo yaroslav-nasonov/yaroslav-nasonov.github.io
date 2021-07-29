@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Цалкин Родион"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Цалкин%20Родион.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Родион%20Цалкин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Цалкин Родион.png" alt="moove-1">
