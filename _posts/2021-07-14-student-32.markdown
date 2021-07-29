@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Фатыхов Булат"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Фатыхов%20Булат.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Булат%20Фатыхов%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Фатыхов Булат.png" alt="moove-1">
