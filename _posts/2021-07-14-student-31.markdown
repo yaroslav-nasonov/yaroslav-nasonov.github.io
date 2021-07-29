@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Фатеева Алина"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Фатеева%20Алина.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Алина%20Фатеева%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Фатеева Алина.png" alt="moove-1">
