@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Тищук Кристина"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Тищук%20Кристина.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Кристина%20Тищук%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Тищук Кристина.png" alt="moove-1">
