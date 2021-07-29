@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Якунин Андрей"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Якунин%20Андрей.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Андрей%20Якунин%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Якунин Андрей.png" alt="moove-1">
