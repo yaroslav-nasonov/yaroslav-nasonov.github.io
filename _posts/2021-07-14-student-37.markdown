@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Эгамбердиев Отабек"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Эгамбердиев%20Отабек.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Отабек%20Эгамбердиев%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Эгамбердиев Отабек.png" alt="moove-1">
