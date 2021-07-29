@@ -2,7 +2,7 @@
 layout: student_page
 title:  "Выслоух Андрей"
 urlimg: http://moove-students.skolkovo.ru/img/posts/Выслоух%20Андрей.png
-vkimage: http://moove-students.skolkovo.ru/img/vkimage/Андрей%20Выслоух%20для%20Вк.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/выслоух.png
 
 ---
 <img class="img-fluid" src="/img/posts/Выслоух Андрей.png" alt="moove-1">
