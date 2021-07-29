@@ -1,6 +1,8 @@
 ---
 layout: student_page
 title:  "Бурмистров Павел"
+urlimg: http://moove-students.skolkovo.ru/img/posts/Бурмистров%20Павел.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/Павел%20Бурмистров%20для%20Вк.png
 
 ---
 <img class="img-fluid" src="/img/posts/Бурмистров Павел.png" alt="moove-1">
