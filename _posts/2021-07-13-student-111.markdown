@@ -1,8 +1,8 @@
 ---
 layout: student_page
 title:  "Оксана Фетисова"
-urlimg: http://moove-students.skolkovo.ru/img/posts/Мария%20Богдашевская.png
+urlimg: http://moove-students.skolkovo.ru/img/posts/Оксана_Фетисова.png
 vkimage: http://moove-students.skolkovo.ru/img/vkimage/Оксана_Фетисова.png
 
 ---
-<img class="img-fluid" src="/img/posts/Оксана Фетисова.png" alt="moove-2">
+<img class="img-fluid" src="/img/posts/Оксана_Фетисова.png" alt="moove-2">
