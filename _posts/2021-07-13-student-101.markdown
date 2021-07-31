@@ -2,7 +2,7 @@
 layout: student_page
 title:  "Антон Савинов"
 urlimg: http://moove-students.skolkovo.ru/img/posts/Савинов.png
-vkimage: http://moove-students.skolkovo.ru/img/vkimage/Савинов_Вк.png
+vkimage: http://moove-students.skolkovo.ru/img/vkimage/савинов.png
 
 ---
 <img class="img-fluid" src="/img/posts/Савинов.png" alt="moove-2">
